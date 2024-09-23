@@ -1,0 +1,1 @@
+python simulator.py --example image_recover --algorithm FXT --config 0 --epochs 2000

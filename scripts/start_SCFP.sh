@@ -1,0 +1,1 @@
+python simulator.py --example SCFP --algorithm FXT --config 0 --epochs 2000
